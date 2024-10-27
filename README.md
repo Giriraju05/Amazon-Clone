@@ -1,0 +1,1 @@
+I have made a close clone of amazon.in using HTML and CSS, showcasing my web development skills. Experience the nearly identical replica that mirrors the essence of Amazon's website. Witness my dedication to accuracy and attention to detail in this remarkable achievement.
